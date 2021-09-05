@@ -23,6 +23,7 @@
   },
   "dependencies": {
     "@ffmpeg/ffmpeg": "^0.8.3",
+    "express": "^4.17.1",
     "preact": "^10.1.0",
     "preact-render-to-string": "^5.1.2"
   }
