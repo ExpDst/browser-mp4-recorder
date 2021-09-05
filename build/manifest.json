@@ -1,0 +1,16 @@
+{
+  "name": "tiny-mp4-recorder",
+  "short_name": "tiny-mp4-recorder",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff",
+  "theme_color": "#673ab8",
+  "icons": [
+    {
+      "src": "/assets/icon.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
